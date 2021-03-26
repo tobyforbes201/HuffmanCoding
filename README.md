@@ -9,6 +9,8 @@ To change the file that you wish to compress or use to create a new tree, please
 
 See demo.mp4 for screencapture on the code working correctly.
 
+Refer to JavaDoc for code details.
+
 Recommend to run within Intellij 2020.3.3 on a Windows machine, cannot guarantee that code will work correctly on any other system due to the relative file paths.
 
 
